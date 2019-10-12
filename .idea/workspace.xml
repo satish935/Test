@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79afc89-15c7-4e7b-9583-a9d3efbca20e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0feb2f3b-d7da-4023-b369-6c08427166a3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +10,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="file1.robot" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/file1.robot">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="L1.robot" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/practice/com/L1.robot">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="File2.robot" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/File2.robot">
+      <file leaf-file-name="L2.robot" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/practice/com/L2.robot">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -94,7 +91,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c79afc89-15c7-4e7b-9583-a9d3efbca20e" name="Default" comment="" />
+      <changelist id="0feb2f3b-d7da-4023-b369-6c08427166a3" name="Default" comment="" />
       <created>1570814219298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -128,14 +125,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/practice/com/1234.robot" />
-    <entry file="file://$PROJECT_DIR$/src/practice/com/NFile.robot" />
-    <entry file="file://$PROJECT_DIR$/src/practice/com/1234.robot" />
-    <entry file="file://$PROJECT_DIR$/src/practice/com/NFile.robot" />
-    <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/file1.robot">
+    <entry file="file://$PROJECT_DIR$/src/practice/com/L1.robot">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/File2.robot">
+    <entry file="file://$PROJECT_DIR$/src/practice/com/L2.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/com/1234.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/NFile.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/1234.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/NFile.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/file1.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/Fiels/File2.robot" />
+    <entry file="file://$PROJECT_DIR$/src/practice/com/L1.robot">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/practice/com/L2.robot">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
