@@ -9,7 +9,7 @@ Library     ExcelRobot
 
 Edit Excel
     ExcelRobot.Open Excel       PracticeExcel.xls
-
+    ExcelRobot.Close Excel
 
 *** Test Cases ***
 Verify Excel is open
