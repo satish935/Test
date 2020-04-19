@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.0.4 (Python 3.6.5 on win32)" generated="20200301 23:33:45.285">
+<suite id="s1" name="Excel" source="C:\Users\Anusatish\Test\src\practice\ExcelFileOpen\Excel.robot">
+<test id="s1-t1" name="Verify Excel is open">
+<kw name="Edit Excel">
+<kw name="Open Excel" library="ExcelRobot">
+<doc>Opens the Excel file to read from the path provided in the file path parameter.</doc>
+<arguments>
+<arg>PracticeExcel.xls</arg>
+</arguments>
+<msg timestamp="20200301 23:33:46.226" level="INFO">Opening file at C:\Users\Anusatish\Test\PracticeExcel.xls</msg>
+<status status="PASS" starttime="20200301 23:33:46.226" endtime="20200301 23:33:46.242"></status>
+</kw>
+<status status="PASS" starttime="20200301 23:33:46.225" endtime="20200301 23:33:46.242"></status>
+</kw>
+<status status="PASS" starttime="20200301 23:33:46.224" endtime="20200301 23:33:46.242" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20200301 23:33:45.287" endtime="20200301 23:33:46.244"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0">Critical Tests</stat>
+<stat pass="1" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" id="s1" name="Excel">Excel</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
