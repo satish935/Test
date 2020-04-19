@@ -12,8 +12,7 @@ Edit Excel
 
 
 *** Test Cases ***
-
 Verify Excel is open
+    ExcelRobot.Open Excel
     ExcelRobot.Open Excel To Write
-
 
